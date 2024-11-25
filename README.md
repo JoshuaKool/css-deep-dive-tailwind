@@ -1,2 +1,3 @@
 # css-deep-dive-tailwind
-tailwind
+
+For this project with tailwind I tried to recreate youtube.
